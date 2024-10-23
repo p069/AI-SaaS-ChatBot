@@ -5,10 +5,17 @@ Although a user can remove their chats at any moment, the application keeps trac
 
 # Tech Stack
 Frontend: React.js
+
 Backend: Node.js Express.js RESTful API
+
 Database: Mongodb CRUD
+
 Authentication: JWT JSON web tokens, React.js Context API as Wrapper
+
 Authorization: HTTP only cookies, validation checks
+
 Security: multiple middleware checks with Node.js
+
 UI: Material UI Library for React.js
+
 API Integration: OpenAI API
