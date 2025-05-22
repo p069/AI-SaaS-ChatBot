@@ -43,10 +43,22 @@ Before starting, ensure you have the following accounts/tools:
 git clone https://github.com/p069/AI-SaaS-ChatBot.git
 cd AI-SaaS-ChatBot
 
-
+```
 2. **Install Dependencies**
 
+```bash
 npm install
 # or
 yarn install
+```
+3. Run the deployment server
+ ```bash
+npm run dev
+# or
+yarn dev
+```
+
+4.Now open http://localhost:3000 to view the application.
+
+
 
