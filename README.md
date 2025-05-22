@@ -19,3 +19,34 @@ Security: multiple middleware checks with Node.js
 UI: Material UI Library for React.js
 
 API Integration: OpenAI API
+
+## 🚀 Deployment Guide
+
+Follow these steps to deploy the AI SaaS ChatBot application:
+
+### ✅ Prerequisites
+
+Before starting, ensure you have the following accounts/tools:
+
+- [Node.js](https://nodejs.org/)
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- [OpenAI](https://platform.openai.com/)
+
+
+---
+
+### 🛠️ Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/p069/AI-SaaS-ChatBot.git
+cd AI-SaaS-ChatBot
+
+
+2. **Install Dependencies**
+
+npm install
+# or
+yarn install
+
